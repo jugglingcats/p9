@@ -12,4 +12,4 @@ You can also write code in C/C++ using the Espressif tools (makers of the ESP32)
 
 There is even an Arduino compatible firmware for the ESP32: https://github.com/espressif/arduino-esp32.
 
-The ESP32 is much more capable and cheaper than the Arduino.
+The ESP32 is much more capable (and cheaper) than the Arduino.
