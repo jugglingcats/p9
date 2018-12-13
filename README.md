@@ -6,7 +6,7 @@ This project is designed to run on on an ESP32 microcontroller coupled with an O
 
 The board has been flashed with the Espruino firmware as described here: http://www.espruino.com/ESP32.
 
-Espruino is a project that allows you to write code on a microcontroller using Javascript. They provide a simple browser-based IDE that allows you to upload Javascript to the board: https://www.espruino.com/Web+IDE.
+Espruino (https://www.espruino.com) is a project that allows you to write code on a microcontroller using Javascript. They provide a simple browser-based IDE that allows you to upload Javascript to the board: https://www.espruino.com/Web+IDE.
 
 You can also write code in C/C++ using the Espressif tools (makers of the ESP32), if you want to get more low-level: https://docs.espressif.com/projects/esp-idf/en/latest.
 
